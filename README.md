@@ -5,6 +5,8 @@ Using vuforia SDK to make AR app
     
     Android API 19 or Higher
     
+    Vuforia Device DB
+    
     Vuforia Scanner APP
 # SDK
 https://developer.vuforia.com/
