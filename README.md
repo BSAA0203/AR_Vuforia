@@ -4,6 +4,8 @@ Using vuforia SDK to make AR app
     Unity 2019.1.9F1
     
     Android API 19 or Higher
+    
+    Vuforia Scanner APP
 # SDK
 https://developer.vuforia.com/
     
