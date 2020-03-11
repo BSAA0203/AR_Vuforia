@@ -1,5 +1,5 @@
 # AR_Vuforia
-Using vuforia SDK to make AR app
+Learning Vuforia with Unity
 # Prerequisites
     Unity 2019.1.9F1
     
